@@ -1,4 +1,10 @@
 # Smart-farming-using-Artificial-Intelligence-and-IoT
-In this project, we are predicting the weather and soil condition of a particular farm considering various agro-climatic factors. 
-This also warns you the possibilities of various pests that might occur in the farm areas, prevent crop failure and maximise crop yield. 
-This project works with the principle that Prevention is better than cure.
+We proudly present our innovative solution developed during the Smart India Hackathon, an initiative by the Government of India. Our project focused on the creation of a cost-effective Edge AI-based IoT prototype that addresses the challenges posed by uncertain agro-climatic factors and pest-related crop failures in the agricultural sector.
+
+One of the core features of our solution is a meticulously designed notification system that caters to the needs of farmers. This system offers valuable insights into crop growth and provides daily feedback concerning irrigation requirements. What sets it apart is its inclusivity, as it supports communication in 22 regional languages, ensuring that crucial information reaches every farmer, regardless of linguistic diversity.
+
+At the heart of our project lies a sophisticated machine-learning algorithm. We integrated sensor fusion techniques to enhance accuracy and optimized these models for deployment on edge devices. These models analyze crucial nutrient levels such as Nitrogen (N), Phosphorus (P), and Potassium (K). The insights gained are then translated into personalized fertilizer recommendations, empowering farmers to make informed decisions and maximize their yields.
+
+A significant aspect of our solution is its comprehensive approach to reducing food loss. By leveraging predictive analytics, we developed strategies to combat both pest infestations and the detrimental effects of excessive fertilizer usage. Our system employs advanced machine learning models to predict potential pest outbreaks, enabling timely intervention through the recommendation of appropriate pesticides.
+
+In summary, our project not only addresses critical agricultural challenges but does so with a holistic and inclusive approach. By providing farmers with actionable insights, personalized recommendations, and early pest warnings, we aim to contribute to increased agricultural productivity and reduced food wastage. This project exemplifies our commitment to harnessing technology for the betterment of society and sustainable agricultural practices.
